@@ -14,11 +14,11 @@
  5. Include a "Readme" file (e.g. Text, Word, Markdown) with instructions on how to run your application.
  6. Contact us for how to deliver the archive file.
 
-## Build an Elevator Coding Challenge!
+# Build an Elevator Coding Challenge!
 Create an application that simulates the operation of a simple elevator.
  In this challenge you will code an elevator that asynchronously accepts inputs in the form of button presses that call the elevator to a floor in a given direction (or to exit the elevator at a floor).  Make your elevator function like it would in the real world.
 
-### Requirements
+## Requirements
  - The elevator must travel in one direction at a time until it needs to go no further (**e.g.** keep going until the elevator has reached the top/bottom of the building, or no stop is requested on any floor ahead).
  - Elevator floor request buttons can be pressed **asynchronously** from inside or outside the elevator while it is running.
  - Elevator will stop at the closest floor first, in the direction of motion, then the next closest and so on. Any floors requested while the elevator is moving should be taken into account.
