@@ -7,12 +7,10 @@
 
 # Submission Guidelines
 
- 1. Zip all your files into a single archive file.
+ 1. Clone this  repo to your git and work on it. 
  2. Include all source code including unit test projects.
- 3. Include all binaries including dependent libraries.
- 4. You may also submit your source repository, if you have used one to develop your solution.
- 5. Include a "Readme" file (e.g. Text, Word, Markdown) with instructions on how to run your application.
- 6. Contact us for how to deliver the archive file.
+ 3. Creat a PR(Pull Request) to my master branch from  your branch.
+ 4. Include a "Readme" file with instructions on how to run your application.
 
 # Build an Elevator Coding Challenge!
 Create an application that simulates the operation of a simple elevator.
