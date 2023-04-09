@@ -9,7 +9,7 @@
 
  1. Clone this  repo to your git and work on it. 
  2. Include all source code including unit test projects.
- 3. Creat a PR(Pull Request) to my master branch from  your branch.
+ 3. Create a PR(Pull Request) to my master branch from  your branch.
  4. Include a "Readme" file with instructions on how to run your application.
 
 # Build an Elevator Coding Challenge!
